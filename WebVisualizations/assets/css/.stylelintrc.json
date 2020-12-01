@@ -1,3 +1,4 @@
+/* INSTRUCTOR CODE GIVEN */
 {
   "extends": "stylelint-config-primer",
   "rules": {
